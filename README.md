@@ -11,5 +11,9 @@ I recommend going from:
 to understand the flow of learning from basic sentiment analysis tutorial on Amazon reviews of oatmeal, to scraping the Course Forum (TCF) and some preliminary analysis on CSO1, to generalizing that sentiment analysis on all TCF links.
 <br>
 
+Issues:
+1. [RESOLVED] duplicating reviews in review list
+2. errors on when course has no reviews or ratings (easily fixable later)
+
 Happy learning!<br>
 Kayla
